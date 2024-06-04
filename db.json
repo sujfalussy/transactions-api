@@ -1,0 +1,49 @@
+{
+  "transactions": [
+    {
+      "transaction_id": "a1b2c3d4",
+      "amount": 54.99,
+      "store_name": "Waterstones",
+      "date": "2024-05-01",
+      "status": "completed",
+      "payment_method": "credit card",
+      "category": "books"
+    },
+    {
+      "transaction_id": "e5f6g7h8",
+      "amount": 23.45,
+      "store_name": "Tesco",
+      "date": "2024-05-03",
+      "status": "completed",
+      "payment_method": "debit card",
+      "category": "groceries"
+    },
+    {
+      "transaction_id": "i9j0k1l2",
+      "amount": 199.99,
+      "store_name": "Currys",
+      "date": "2024-05-05",
+      "status": "pending",
+      "payment_method": "credit card",
+      "category": "electronics"
+    },
+    {
+      "transaction_id": "m3n4o5p6",
+      "amount": 75.00,
+      "store_name": "Marks & Spencer",
+      "date": "2024-05-07",
+      "status": "completed",
+      "payment_method": "cash",
+      "category": "apparel"
+    },
+    {
+      "transaction_id": "q7r8s9t0",
+      "amount": 12.99,
+      "store_name": "Costa Coffee",
+      "date": "2024-05-09",
+      "status": "completed",
+      "payment_method": "credit card",
+      "category": "food & beverage"
+    }
+  ]
+}
