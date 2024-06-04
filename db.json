@@ -1,49 +1,55 @@
 {
   "transactions": [
     {
-      "transaction_id": "a1b2c3d4",
+      "transaction_id": "ZD-a1b2c3d4",
       "amount": 54.99,
       "store_name": "Waterstones",
       "date": "2024-05-01",
       "status": "completed",
       "payment_method": "credit card",
-      "category": "books"
+      "category": "books",
+      "imageUrl": "https://images.unsplash.com/photo-1512820790803-83ca734da794"
     },
     {
-      "transaction_id": "e5f6g7h8",
+      "transaction_id": "ZD-e5f6g7h8",
       "amount": 23.45,
       "store_name": "Tesco",
       "date": "2024-05-03",
       "status": "completed",
       "payment_method": "debit card",
-      "category": "groceries"
+      "category": "groceries",
+      "imageUrl": "https://images.unsplash.com/photo-1570824100610-27c173f51f8e"
     },
     {
-      "transaction_id": "i9j0k1l2",
+      "transaction_id": "ZD-i9j0k1l2",
       "amount": 199.99,
       "store_name": "Currys",
       "date": "2024-05-05",
       "status": "pending",
       "payment_method": "credit card",
-      "category": "electronics"
+      "category": "electronics",
+      "imageUrl": "https://images.unsplash.com/photo-1580910051070-11b8e207c1f8"
     },
     {
-      "transaction_id": "m3n4o5p6",
+      "transaction_id": "ZD-m3n4o5p6",
       "amount": 75.00,
       "store_name": "Marks & Spencer",
       "date": "2024-05-07",
       "status": "completed",
       "payment_method": "cash",
-      "category": "apparel"
+      "category": "apparel",
+      "imageUrl": "https://images.unsplash.com/photo-1560807707-8cc77767d783"
     },
     {
-      "transaction_id": "q7r8s9t0",
+      "transaction_id": "ZD-q7r8s9t0",
       "amount": 12.99,
       "store_name": "Costa Coffee",
       "date": "2024-05-09",
       "status": "completed",
       "payment_method": "credit card",
-      "category": "food & beverage"
+      "category": "food & beverage",
+      "imageUrl": "https://images.unsplash.com/photo-1509042239860-f550ce710b93"
     }
   ]
 }
+
