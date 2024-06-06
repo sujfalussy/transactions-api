@@ -8,7 +8,8 @@
       "status": "completed",
       "payment_method": "credit card",
       "category": "books",
-      "imageUrl": "https://images.unsplash.com/photo-1512820790803-83ca734da794"
+      "imageUrl": "https://images.unsplash.com/photo-1512820790803-83ca734da794",
+      "currency": "GBP"
     },
     {
       "transaction_id": "ZD-e5f6g7h8",
@@ -18,7 +19,8 @@
       "status": "completed",
       "payment_method": "debit card",
       "category": "groceries",
-      "imageUrl": "https://c8.alamy.com/comp/ADAPFJ/groceries-in-shopping-basket-ADAPFJ.jpg"
+      "imageUrl": "https://c8.alamy.com/comp/ADAPFJ/groceries-in-shopping-basket-ADAPFJ.jpg",
+      "currency": "GBP"
     },
     {
       "transaction_id": "ZD-i9j0k1l2",
@@ -28,7 +30,8 @@
       "status": "pending",
       "payment_method": "credit card",
       "category": "electronics",
-      "imageUrl": "https://o.aolcdn.com/hss/storage/midas/ff4ee253c5de4a2a7d28c71c08ddbad9/203721134/computer+store.png"
+      "imageUrl": "https://o.aolcdn.com/hss/storage/midas/ff4ee253c5de4a2a7d28c71c08ddbad9/203721134/computer+store.png",
+      "currency": "GBP"
     },
     {
       "transaction_id": "ZD-m3n4o5p6",
@@ -38,7 +41,8 @@
       "status": "completed",
       "payment_method": "cash",
       "category": "apparel",
-      "imageUrl": "https://images.unsplash.com/photo-1512436991641-6745cdb1723f"
+      "imageUrl": "https://images.unsplash.com/photo-1512436991641-6745cdb1723f",
+      "currency": "GBP"
     },
     {
       "transaction_id": "ZD-q7r8s9t0",
@@ -48,7 +52,8 @@
       "status": "completed",
       "payment_method": "credit card",
       "category": "food & beverage",
-      "imageUrl": "https://images.unsplash.com/photo-1509042239860-f550ce710b93"
+      "imageUrl": "https://images.unsplash.com/photo-1509042239860-f550ce710b93",
+      "currency": "GBP"
     }
   ]
 }
