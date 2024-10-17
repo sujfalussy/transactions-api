@@ -1,6 +1,17 @@
 {
   "transactions": [
     {
+      "transaction_id": "ZD-i9j0k1l2",
+      "amount": 199.99,
+      "store_name": "Currys",
+      "date": "2024-10-17",
+      "status": "pending",
+      "payment_method": "credit card",
+      "category": "electronics",
+      "imageUrl": "https://o.aolcdn.com/hss/storage/midas/ff4ee253c5de4a2a7d28c71c08ddbad9/203721134/computer+store.png",
+      "currency": "GBP"
+    },
+    {
       "transaction_id": "ZD-a1b2c3d4",
       "amount": 54.99,
       "store_name": "Waterstones",
@@ -20,17 +31,6 @@
       "payment_method": "debit card",
       "category": "groceries",
       "imageUrl": "https://c8.alamy.com/comp/ADAPFJ/groceries-in-shopping-basket-ADAPFJ.jpg",
-      "currency": "GBP"
-    },
-    {
-      "transaction_id": "ZD-i9j0k1l2",
-      "amount": 199.99,
-      "store_name": "Currys",
-      "date": "2024-05-05",
-      "status": "pending",
-      "payment_method": "credit card",
-      "category": "electronics",
-      "imageUrl": "https://o.aolcdn.com/hss/storage/midas/ff4ee253c5de4a2a7d28c71c08ddbad9/203721134/computer+store.png",
       "currency": "GBP"
     },
     {
